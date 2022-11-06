@@ -5,15 +5,15 @@ This collection of repos has as a main goal to show relevant coding practices in
 - `angular` Angular
 - `net` .Net
 - `csharp` C#
-- `sql` SQL
+- `tsql` Transact SQL
 - `javascript` JavaScript
 - `typescript` TypeScript
 - `css` CSS
 - `sass` Sass
 - `html` Html
-- `design-patterns` Design patterns
+- `design-patterns` Design Patterns
 - `algorithms` Algorithms
-- `data-structure` Data structure
+- `data-structure` Data Structure
 
 <!--
 **falarcon-ca/falarcon-ca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
