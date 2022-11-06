@@ -8,8 +8,8 @@ This collection of repos has as a main goal to show relevant coding practices in
 - `sql` SQL
 - `javascript` JavaScript
 - `typescript` TypeScript
-- `css-` CSS
-- `sass-` Sass
+- `css` CSS
+- `sass` Sass
 - `html` Html
 - `design-patterns` Design patterns
 - `algorithms` Algorithms
