@@ -11,7 +11,7 @@ This collection of repos has as a main goal to show relevant coding practices in
 - `css-` CSS
 - `sas-` Sass
 - `htm-` Html
-- `dpa-` Design patterns
+- `pat-` Design patterns
 - `alg-` Algorithms
 - `dat-` Data structure
 
