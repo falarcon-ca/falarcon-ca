@@ -2,18 +2,18 @@
 
 This collection of repos has as a main goal to show relevant coding practices in the following languages:
 
-- `ang-` Angular
-- `net-` .Net
-- `csh-` C#
-- `sql-` SQL
-- `jav-` JavaScript
-- `typ-` TypeScript
+- `angular` Angular
+- `net` .Net
+- `csharp` C#
+- `sql` SQL
+- `javascript` JavaScript
+- `typescript` TypeScript
 - `css-` CSS
-- `sas-` Sass
-- `htm-` Html
-- `pat-` Design patterns
-- `alg-` Algorithms
-- `dat-` Data structure
+- `sass-` Sass
+- `html` Html
+- `design-patterns` Design patterns
+- `algorithms` Algorithms
+- `data-structure` Data structure
 
 <!--
 **falarcon-ca/falarcon-ca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
